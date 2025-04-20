@@ -2,6 +2,12 @@
 
 DailyNewsGen is a personal automation project that fetches the top news headlines of the day and transforms them into engaging short videos, complete with narration and visuals. Perfect for social media or quick news updates! 
 
+
+https://github.com/user-attachments/assets/2d460217-c871-495c-a4b7-e43bca70923c
+
+
+The above is a sample video generated from this framework.
+
 ## 🚀 Features
 
 📥 Fetches real-time top headlines using NewsAPI.<br/>
